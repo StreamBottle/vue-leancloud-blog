@@ -28,7 +28,7 @@
     },
     created () {
       this.getList()
-      this.updateHeadline('将就的博客')
+      this.updateHeadline('StreamBottle的博客')
     }
   }
 </script>
